@@ -4,10 +4,10 @@
     "homepage": "https://github.com/jakubiak/streamline-account",
     "keywords": [],
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4",
-        "yiisoft/yii2": "*",
-        "yiisoft/yii2-redis": "~2.0.0"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {

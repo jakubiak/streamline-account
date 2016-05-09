@@ -1,0 +1,19 @@
+{
+    "name": "jakubiak/streamline-account",
+    "description": "Check Streamline Account User Session",
+    "homepage": "https://github.com/jakubiak/streamline-account",
+    "keywords": [],
+    "license": "MIT",
+    "version": "0.0.1",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-redis": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jakubiak\\stra\\": ""
+        }
+    }
+}
